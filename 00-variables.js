@@ -1,3 +1,6 @@
+// some notes, delete later
+
+
 let message;
 console.log(message);
 
@@ -22,3 +25,8 @@ else
 {
     console.log('nope.')
 }
+
+const name = 'sky';
+const age = 40;
+const ya = `hello ${name} , your age is ${age}`;
+console.log(ya)

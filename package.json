@@ -14,5 +14,8 @@
     "nlp"
   ],
   "author": "skyler saucedo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/basic": "^4.26.1"
+  }
 }
