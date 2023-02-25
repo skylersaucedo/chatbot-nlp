@@ -4,5 +4,5 @@
             "corpora": ["./data/corpus-en.json"]
         }
     },
-    "use": ["Basic"]
+    "use": ["Basic", "LangEn", "ConsoleConnector"]
 }
